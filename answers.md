@@ -2,11 +2,11 @@
 
 a. getElementById()
 
-b. getElementsByTagName()
+b. ***answer getElementsByTagName()***
 
 c. querySelector()
 
-d. querySelectorAll()
+d. ***answer querySelectorAll()***
 
 ---
 
@@ -14,7 +14,7 @@ d. querySelectorAll()
 
 a. yes
 
-b. no
+b. ***answer no***
 
 ---
 
@@ -24,7 +24,7 @@ a. document.remove()
 
 b. parentNode.remove(child)
 
-c. element.remove()
+c. ***answer element.remove()***
 
 d. document.remove(parentNode, element)
 
@@ -34,7 +34,7 @@ d. document.remove(parentNode, element)
 
 a. document.addItemTo(parentNode, newItem)
 
-b. parentNode.appendChild()
+b. ***answer parentNode.appendChild()***
 
 c. new Item().addToParent(parentNode)
 
@@ -46,7 +46,7 @@ d. parentNode.push(newItem)
 
 a. HTML
 
-b. The Document Object Model
+b. ***answer The Document Object Model***
 
 c. Source code
 
@@ -60,7 +60,7 @@ a. A collection of JavaScript objects
 
 b. A webpage's domain name
 
-c. A tree of nodes representing HTML elements
+c. ***answer A tree of nodes representing HTML elements***
 
 d. A collection of security restrictions and permissions
 
@@ -72,7 +72,7 @@ a. The DOM controls the HTML that can be rendered
 
 b. HTML dictates a static DOM
 
-c. Elements in the DOM map to elements in the HTML document
+c. ***answer Elements in the DOM map to elements in the HTML document***
 
 d. There is no relationship
 
@@ -86,7 +86,7 @@ b. HTMLElement
 
 c. Element
 
-d. Node
+d. ***answer Node***
 
 ---
 
@@ -94,7 +94,7 @@ d. Node
 
 a. All of the tabs in the same browser window
 
-b. Only the tab or window that contains the current HTML document
+b. ***answer Only the tab or window that contains the current HTML document***
 
 c. All tabs across all browser windows
 
@@ -104,7 +104,7 @@ d. All instances of in the history of the current tab
 
 10) To which object do the location, console, and document properties belong?
 
-a. Window
+a. ***answer Window***
 
 b. Document
 
@@ -120,7 +120,7 @@ a. wait()
 
 b. setInterval()
 
-c. setTimeout()
+c. ***answer setTimeout()***
 
 d. sleep()
 
@@ -130,7 +130,7 @@ d. sleep()
 
 a. wait()
 
-b. setInterval()
+b. ***answer setInterval()***
 
 c. setTimeout()
 
