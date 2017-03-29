@@ -84,9 +84,9 @@ a. HTMLDivElement
 
 b. HTMLElement
 
-c. Element
+c. ***answer Element***
 
-d. ***answer Node***
+d. Node
 
 ---
 
