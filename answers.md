@@ -135,3 +135,15 @@ b. ***answer setInterval()***
 c. setTimeout()
 
 d. sleep()
+
+---
+
+# Short Answer
+
+In your own words, explain what the DOM is and how it relates to HTML documents.
+
+In your own words, explain what nodes are and how they relate to elements in HTML documents.
+
+In your own words explain the role played by the window object.
+
+Explain how the Window object relates to the global scope.
