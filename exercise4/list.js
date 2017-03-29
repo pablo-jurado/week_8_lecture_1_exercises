@@ -10,12 +10,16 @@ list in index.html.
 */
 
 // list.js
-function addItem(){
-    // get the text typed into the input field
-    var text = document.getElementById("item").value;
-
-    // todo: create a new list item and append it to the ordered list
-
-    // clear the text in the input field
-    document.getElementById("item").value = "";
+function addItem () {
+  // get the text typed into the input field
+  var text = document.getElementById('item').value
+  // todo: create a new list item and append it to the ordered list
+  if (text !== '') {
+    var list = document.getElementById('list')
+    var liElement = document.createElement('LI')
+    liElement.textContent = text
+    list.appendChild(liElement)
+  }
+  // clear the text in the input field
+  document.getElementById('item').value = ''
 }
