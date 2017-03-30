@@ -140,10 +140,20 @@ d. sleep()
 
 # Short Answer
 
-In your own words, explain what the DOM is and how it relates to HTML documents.
+####In your own words, explain what the DOM is and how it relates to HTML documents.
+The DOM is a node representation of our HTML structure.  With JavaScript we can manipulate the DOM changing content, structure, and style.
 
-In your own words, explain what nodes are and how they relate to elements in HTML documents.
+---
 
-In your own words explain the role played by the window object.
+####In your own words, explain what nodes are and how they relate to elements in HTML documents.
+In the DOM everything is a node and we represent HTML elements through nodes
 
-Explain how the Window object relates to the global scope.
+---
+
+####In your own words explain the role played by the window object.
+If we compare the DOM tree with a file system structure the window object represent our root folder.
+
+---
+
+####Explain how the Window object relates to the global scope.
+The Window object is our global scope and we cannot go above it.  The global scope holds All global JavaScript objects, functions, and variables. When we create a function we are nesting a new scope inside of the global scope.
